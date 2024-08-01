@@ -20,7 +20,7 @@ public class EmailService {
 
 	        boolean f = false;
 
-	        String from = "skshukla093@gmail.com";
+	        String from = "sachcoder@gmail.com";
 
 	        //Variable for gmail
 	        String host = "smtp.gmail.com";
